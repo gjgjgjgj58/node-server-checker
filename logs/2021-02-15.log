@@ -1,0 +1,209 @@
+2021-02-15 11:12:00 info: statusCode: 200, status is ok.
+2021-02-15 11:13:21 info: Error occurred! I will send mail everyone!
+2021-02-15 11:13:21 info: 250 [Sniper] OK 1613355200 snipe-queue 22722
+2021-02-15 11:13:21 info: 250 [Sniper] OK 1613355200 snipe-queue 22723
+2021-02-15 11:13:21 info: 250 [Sniper] OK 1613355200 snipe-queue 22721
+2021-02-15 12:00:00 info: statusCode: 200, status is ok.
+2021-02-15 12:30:00 info: statusCode: 200, status is ok.
+2021-02-15 13:00:00 info: statusCode: 200, status is ok.
+2021-02-15 13:30:00 info: statusCode: 200, status is ok.
+2021-02-15 14:00:00 info: statusCode: 200, status is ok.
+2021-02-15 14:20:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 14:20:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 14:20:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 14:21:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 14:21:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 14:21:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 15:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 15:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 15:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 15:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 15:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 15:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 16:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 16:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 16:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 16:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 16:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 16:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 17:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 17:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 17:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 17:25:07 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 17:26:51 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 17:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 17:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 17:30:01 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:30:25 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:31:21 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:31:37 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:32:04 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:39:03 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:39:22 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:40:34 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:47:15 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:51:12 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:52:41 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:53:01 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:53:17 info: MOAMap kMap2: statusCode: 500, status is not ok.
+2021-02-15 17:56:46 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 17:56:46 info: MOAMap kMap2: Data is ok.
+2021-02-15 18:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 18:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 18:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 18:04:39 info: MOAMap kMap2: statusCode: 500, status is not ok.
+2021-02-15 18:04:39 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:14:20 info: MOAMap kMap2: statusCode: 500, status is not ok.
+2021-02-15 18:14:20 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:14:20 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:14:21 info: 250 [Sniper] OK 1613380459 snipe-queue 20764
+2021-02-15 18:16:03 info: MOAMap kMap2: statusCode: 500, status is not ok.
+2021-02-15 18:16:03 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:16:03 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:16:03 info: 250 [Sniper] OK 1613380561 snipe-queue 24791
+2021-02-15 18:17:26 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:17:26 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:19:14 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:19:14 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:20:45 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:20:45 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:20:45 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:20:46 info: 250 [Sniper] OK 1613380844 snipe-queue 4030
+2021-02-15 18:22:22 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:22:22 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:22:22 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:22:22 info: 250 [Sniper] OK 1613380940 snipe-queue 7307
+2021-02-15 18:22:58 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:22:58 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:22:58 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:22:58 info: 250 [Sniper] OK 1613380976 snipe-queue 8195
+2021-02-15 18:23:44 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:23:44 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:23:44 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:23:44 info: 250 [Sniper] OK 1613381022 snipe-queue 9557
+2021-02-15 18:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 18:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 18:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 18:33:47 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:33:47 info: MOAMap kMap2: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:33:47 info: MOAMap kMap2: Error occurred! I will send mail everyone!
+2021-02-15 18:33:48 info: 250 [Sniper] OK 1613381626 snipe-queue 31189
+2021-02-15 18:34:21 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:34:21 info: MOAMap kMap2: Data is ok.
+2021-02-15 18:39:53 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:39:53 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:41:20 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 18:41:20 info: geocoding kMap: Data is ok.
+2021-02-15 18:41:34 info: coronapath.info kMap: statusCode: 404, status is not ok.
+2021-02-15 18:41:34 info: coronapath.info kMap: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:41:34 info: coronapath.info kMap: Error occurred! I will send mail everyone!
+2021-02-15 18:41:34 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:45:48 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 18:49:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 18:49:00 info: geocoding kMap: Data is ok.
+2021-02-15 18:51:32 info: coronapath.info kMap: statusCode: 404, status is not ok.
+2021-02-15 18:51:32 info: coronapath.info kMap: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:51:32 info: coronapath.info kMap: Error occurred! I will send mail everyone!
+2021-02-15 18:51:33 info: 250 [Sniper] OK 1613382691 snipe-queue 31492
+2021-02-15 18:51:33 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:51:33 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:51:37 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:51:37 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:54:04 info: coronapath.info kMap: statusCode: 404, status is not ok.
+2021-02-15 18:54:04 info: coronapath.info kMap: Data is not ok. Data doesn't have MapInfo tag.
+2021-02-15 18:54:04 info: coronapath.info kMap: Error occurred! I will send mail everyone!
+2021-02-15 18:54:04 info: 250 [Sniper] OK 1613382842 snipe-queue 6599
+2021-02-15 18:54:05 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:54:05 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:54:05 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:54:05 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:59:09 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 18:59:09 info: coronapath.info kMap: Data is ok.
+2021-02-15 18:59:09 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 18:59:09 info: geocoding kMap: Data is ok.
+2021-02-15 18:59:10 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 18:59:10 info: MOAMap kMap2: Data is ok.
+2021-02-15 19:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 19:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 19:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 19:01:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 19:01:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 19:01:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 19:01:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 19:01:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 19:01:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 19:01:00 info: geocoding kMap: Data is ok.
+2021-02-15 19:01:03 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 19:01:03 info: MOAMap kMap2: Data is ok.
+2021-02-15 19:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 19:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 19:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 19:30:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 19:30:00 info: geocoding kMap: Data is ok.
+2021-02-15 19:30:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 19:30:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 19:30:00 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 19:30:00 info: MOAMap kMap2: Data is ok.
+2021-02-15 20:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 20:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 20:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 20:00:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 20:00:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 20:00:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 20:00:00 info: geocoding kMap: Data is ok.
+2021-02-15 20:00:04 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 20:00:04 info: MOAMap kMap2: Data is ok.
+2021-02-15 20:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 20:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 20:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 20:30:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 21:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 21:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 21:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 21:00:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 21:00:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 21:00:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 21:00:00 info: geocoding kMap: Data is ok.
+2021-02-15 21:00:00 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 21:00:00 info: MOAMap kMap2: Data is ok.
+2021-02-15 21:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 21:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 21:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 21:30:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 22:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 22:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 22:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 22:00:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 22:00:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 22:00:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 22:00:00 info: geocoding kMap: Data is ok.
+2021-02-15 22:00:03 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 22:00:03 info: MOAMap kMap2: Data is ok.
+2021-02-15 22:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 22:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 22:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 22:30:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 22:30:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 22:30:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 22:30:00 info: geocoding kMap: Data is ok.
+2021-02-15 22:30:01 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 22:30:01 info: MOAMap kMap2: Data is ok.
+2021-02-15 23:00:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 23:00:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 23:00:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 23:00:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 23:00:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 23:00:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 23:00:00 info: geocoding kMap: Data is ok.
+2021-02-15 23:00:05 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 23:00:05 info: MOAMap kMap2: Data is ok.
+2021-02-15 23:30:00 info: coronapath.info updater.js: statusCode: 200, status is ok.
+2021-02-15 23:30:00 info: 159 server: Host 30.30.30.159 (159 Server PC) is alive.
+2021-02-15 23:30:00 info: 159 server: Host 147.46.40.211 (dev.ksic.net Domain) is alive.
+2021-02-15 23:30:00 info: coronapath.info kMap: statusCode: 200, status is ok.
+2021-02-15 23:30:00 info: coronapath.info kMap: Data is ok.
+2021-02-15 23:30:00 info: geocoding kMap: statusCode: 200, status is ok.
+2021-02-15 23:30:00 info: geocoding kMap: Data is ok.
+2021-02-15 23:30:03 info: MOAMap kMap2: statusCode: 200, status is ok.
+2021-02-15 23:30:03 info: MOAMap kMap2: Data is ok.
